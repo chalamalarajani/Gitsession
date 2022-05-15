@@ -1,0 +1,36 @@
+Adherence to deliverable schedule=
+
+I have completed Deliverables like Installed WMQ9.1 Installtion and Fixpack for IBM MQ and Installed IBM Appconnect in few 
+UAT Servers.Communicated with OS Team regarding Storage and Disk space Issues.I have done POSTMAN and SOAP UI Testing for Serivces testing.
+And Bar file is deployed with help of Jenkins job and same thing is uploaded in to SVN using the same in UAT Services.
+
+
+While installing IBM APPconnect in one of UAT server we found some dependent libraries missing pertaining to version.we approached
+OS team to update the latest version including missing library files.After performing this activity by OS team we are able to successfully installed.
+
+
+Resolved issues:
+
+I have communicated with respective team and resolved various issues that were assigned to me like ATM ssl implementation 
+and MINB NEFT & RTGS MQ Testing and Retalilsms SSL certrenewal.
+
+
+Adherence to SLAs.
+
+I adhered to SLA's 100% in case of any issues like regarding ssl certification expired and channel down 
+cases in UAT solutions and queue pileups in ATM and SMS servers and not receiving transcactions and failure of transactions from ATM
+and Microservices.
+
+
+Number of Modules:
+
+I Provided support for Deployment of services in our servers in DC-DR-GB Switch-over Activity, DB Activity and Giving channel authentication for necessary application pointing to our servers and 
+Communicating with Network team for FAR related issues regarding that particular activity.And creating and updating the Scripts
+while doing barfile Deployments in different servers. 
+
+
+LearnngHours:
+
+I have completed the learning necessary for IBM Integartion MQ and APPconnect, IBM Integration BUS,ALternative thinking,
+NAD 101,AI 101,WFH 101,Media and Entertainment and communication and Automation Ninja that are necessary for project and help me advance in my career.
+
